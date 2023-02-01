@@ -1,2 +1,3 @@
-# Pong
-Recreate a classice game using C++ and SDL2
+# Readme
+
+.h/.hpp header files go in this directory
